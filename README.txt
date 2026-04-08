@@ -18,3 +18,13 @@ This project was created as a first step into cybersecurity, focusing on underst
 
 ```bash
 python main.py
+
+
+## 🔍 Port Scanner
+
+Basic Python tool to scan common ports on a target host.
+
+### Features
+- Scans selected ports
+- Detects open/closed ports
+- Simple socket-based implementation
